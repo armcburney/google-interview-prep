@@ -1,0 +1,23 @@
+* Plan
+** Every Day
+- Wake up at 7:00 AM
+- Practice at least 10 questions on Leetcode or Cracking the Coding Interview in Python
+  - Write solutions to the problem
+  - Write unit tests
+  - Analyze both the spacial and time complexity
+- Review one data structure or algorithm
+* Python Goals [0/0]
+** Common operations [0/0]
+- [ ] iterating through a string
+- [ ] range based for loops
+- [ ] array splicing
+- [ ] string splicing
+- [ ] list comprehensions
+- [ ] dict comprehensions
+- [ ] python sets
+** Algorithms
+- Binary search
+- Depth First Search
+- Breadth First Search
+- Binary search tree
+- Merge sort
