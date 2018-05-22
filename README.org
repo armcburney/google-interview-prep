@@ -21,3 +21,16 @@
 - Breadth First Search
 - Binary search tree
 - Merge sort
+* Schedule
+** Tuesday
+*** Leetcode [0/5]
+- [ ] Median of two sorted arrays
+- [ ] Regular expression matching
+- [ ] Letter combinations of a phone number
+- [ ] Generate parentheses
+- [ ] Merge k sorted lists
+- [ ] Next permutation
+- [ ] Trapping Rain Water
+- [ ] Spiral Matrix
+- [ ] Merge intervals
+- [ ]
