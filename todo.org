@@ -1,0 +1,19 @@
+** Google Interview TODO [0/11]
+*** TODO Maximum in subarray problem
+*** TODO O(1) Knapsack problem
+*** TODO TSP problem
+*** TODO Trie implementation Python class
+*** TODO Operating system review [0/9]
+**** TODO Processes
+**** TODO Threads
+**** TODO Concurrency Issues
+**** TODO Livelock
+**** TODO Deadlock
+**** TODO Mutex
+**** TODO Semaphore
+**** TODO Monitors
+**** TODO How context switching works
+*** TODO Write a distance between two nodes in binary tree on paper, and tape it to your wall
+*** TODO BFS, DFS and their time / space complexities
+*** TODO Red/black trees OR B-trees
+*** TODO Quick sort in python

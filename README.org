@@ -23,14 +23,14 @@
 - Merge sort
 * Schedule
 ** Tuesday
-*** Leetcode [0/5]
+*** Leetcode [2/10]
 - [ ] Median of two sorted arrays
 - [ ] Regular expression matching
 - [ ] Letter combinations of a phone number
 - [ ] Generate parentheses
-- [ ] Merge k sorted lists
+- [X] Merge k sorted lists
 - [ ] Next permutation
 - [ ] Trapping Rain Water
-- [ ] Spiral Matrix
+- [X] Spiral Matrix
 - [ ] Merge intervals
-- [ ]
+- [ ] Hamming Distance
