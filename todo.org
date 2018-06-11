@@ -1,4 +1,0 @@
-** Google Interview TODO [0/3]
-*** TODO O(1) Knapsack problem
-*** TODO TSP problem
-*** TODO BFS, DFS and their time / space complexities
